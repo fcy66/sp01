@@ -41,7 +41,7 @@ spring:
   application:
     name: zool
   rabbitmq:
-    host: 192.168.64.140
+    host: 192.168.23.142
     port: 5672
     username: admin
     password: admin
